@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BeinionGD
-- 👀 I’m interested in Game Designer
-- 🌱 I’m currently learning USV
-- 💞️ I’m looking to collaborate on with other narratives
-- 📫 How to reach me beinion.gamedesigner@outlook.com
+- 👋 Hi, I’m @Kenneth
+- 👀 I’m interested in Level Design
+- 🌱 I’m currently learning University of Silicon Valley
+- 💞️ I’m looking to collaborate on with other Designers
+- 📫 How to reach me kenneth.velazquezmorales@gmail.com
 - 😄 Pronouns: HE-HIM
 - ⚡ Fun fact: I speak 3 languages 
 
